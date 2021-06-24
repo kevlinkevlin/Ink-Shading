@@ -6987,9 +6987,9 @@ MonoBehaviour:
   shader: {fileID: 4800000, guid: 5debcba08b9c22343bae52e50bf32b62, type: 3}
   downSample: 0
   samplerScale: 1
-  count: 2
-  edgeWidth: 0.9
-  sensitive: 0.496
+  count: 1
+  edgeWidth: 0.4
+  sensitive: 0.01
   paintFactor: 4
   noiseTexture: {fileID: 2800000, guid: 1996420191048674fb2013aa0dc02a07, type: 3}
 --- !u!4 &763089204
